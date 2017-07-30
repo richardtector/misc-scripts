@@ -1,8 +1,8 @@
-* telegraf_pf
+# telegraf_pf
 
 This script parses the output of pfctl and prints structured JSON. Written originally to run on a pfsense appliance and feed Telegraf->InfluxDB
 
-** pfSense Quick Start
+## pfSense Quick Start
 
 1. SSH to appliance, open the shell
 
